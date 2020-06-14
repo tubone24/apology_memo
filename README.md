@@ -35,12 +35,12 @@ flutter build ios
 
 ## Demo
 
-![docs/images/demo.gif]
+![docs/images/demo.gif](docs/images/demo.gif)
 
 Listview for apologies.
 
-![docs/images/listview.png]
+![docs/images/listview.png](docs/images/listview.png)
 
 Editing and creating for apologies.
 
-![docs/images/edit.png]
+![docs/images/edit.png](docs/images/edit.png)
