@@ -1,16 +1,46 @@
-# apology_memo
+# Apology_memo
 
-A new Flutter project.
+Write your apologies and achieve success!
 
-## Getting Started
+## How about "Apology Memo"
 
-This project is a starting point for a Flutter application.
+It's hard to keep up with something every day.
+The purpose of this app is to help you keep doing something by setting yourself up for the very painful and humiliating task of writing a reflection when you have a hard time keeping up with something every day, or when you can't keep up with it every day.
 
-A few resources to get you started if this is your first Flutter project:
+We've eliminated all unnecessary UI so that you can focus on writing your reflections.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+We hope it helps you to keep doing something you're not good at every day.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Install
+
+### Preconditions
+
+This app uses Flutter. Android or iOS device to create an environment and app that runs Flutter beforehand. Please prepare an emulator.
+
+If you are a Mac user, you can use [provisioning tool named mac-auto-setup](https://github.com/tubone24/mac-auto-setup) to install Flutter.
+
+- Flutter(1.17.2 or more)
+
+### Build APK
+
+```
+flutter build apk
+```
+
+### Build iOS app
+
+```
+flutter build ios
+```
+
+## Demo
+
+![docs/images/demo.gif]
+
+Listview for apologies.
+
+![docs/images/listview.png]
+
+Editing and creating for apologies.
+
+![docs/images/edit.png]
