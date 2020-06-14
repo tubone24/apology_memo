@@ -1,5 +1,7 @@
 # Apology_memo
 
+![img](docs/images/apologies_logo.png)
+
 Write your apologies and achieve success!
 
 ## How about "Apology Memo"
