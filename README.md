@@ -46,3 +46,9 @@ Listview for apologies.
 Editing and creating for apologies.
 
 ![docs/images/edit.png](docs/images/edit.png)
+
+## Try this app
+
+DeployGate, you can try this app.
+
+![img](docs/images/deploy_gate_qr.png)
